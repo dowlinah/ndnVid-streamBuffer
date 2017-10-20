@@ -14,7 +14,7 @@ class kbBuffer {
 		std::string getFileName();
 		int getCompleteBuffers();
 		void readFile();
-
+		int getFileSize();
 	private:
 		std::string fname;
 		int maxSeq;	// maximum in-order sequence that has been received
