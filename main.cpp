@@ -2,7 +2,7 @@
 using std::cout;
 using std::endl;
 
-#include "kbBuffer.h"
+#include "kbBuffer.hpp"
 
 int main () {
 	kbBuffer buf("test.txt");
