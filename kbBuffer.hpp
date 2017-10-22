@@ -10,18 +10,35 @@ public:
     maxSeq = 0;
     fname = s;
   };
+
+  //accessors:
   int getMaxSeq();
-  std::string getFileName();
   int getCompleteBuffers();
-  void readFile();
   int getFileSize();
+  int getSizeOfLastBuffer();
+  std::string getFileName();
+  
+  //file methods for full files:
+  void readFile();
+  void printFile(std::ostream& out);
+  //  std::ostream& operator<<(std::ostream& out);
+  
+  //methods for specific buffers
+  char * getBuffer(const int &num);
+  std::string getStrBuffer(const int &num);
+  bool isLastBuffer(const int &num);
+  
 private:
+  //data:
   std::string fname;
-  int maxSeq;	// maximum in-order sequence that has been received
-  char ** mainBuf;	// "buffer of buffers" hard-coded to be kilobytes
-  bool * completions;	// buffer of bools representing filled buffers
-  int sizeOfLastBuffer;	// int representing the size of the last buffer
-  int currentCompleteBuffers;	// count of buffers currently full
+  int maxSeq;	// maximum in-order sequence recieved
+  char ** mainBuf;	// "buffer of buffers" in kB
+  bool * completions;	//buffer of bools -filled buffers
+  int sizeOfLastBuffer;	// size of the last buffer read
+  int currentCompleteBuffers;	// count of buffers full
+
+  //methods:
+  bool isValidIndex(const int &num);
 };
 
 #endif

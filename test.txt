@@ -1,2 +1,106 @@
-this is a sample file.
-tony needs to make this file a lot bigger for fancier testing, but thisll work for now.
+PING /throughput/benchmark
+timeout from /throughput/benchmark: seq=5890156403383907367
+timeout from /throughput/benchmark: seq=5890156403383907368
+content from /throughput/benchmark: seq=5890156403383907372 time=17.0941 ms
+timeout from /throughput/benchmark: seq=5890156403383907369
+content from /throughput/benchmark: seq=5890156403383907373 time=17.2682 ms
+timeout from /throughput/benchmark: seq=5890156403383907370
+timeout from /throughput/benchmark: seq=5890156403383907371
+content from /throughput/benchmark: seq=5890156403383907375 time=17.0081 ms
+content from /throughput/benchmark: seq=5890156403383907376 time=16.9364 ms
+timeout from /throughput/benchmark: seq=5890156403383907374
+timeout from /throughput/benchmark: seq=5890156403383907377
+timeout from /throughput/benchmark: seq=5890156403383907378
+content from /throughput/benchmark: seq=5890156403383907382 time=17.3506 ms
+timeout from /throughput/benchmark: seq=5890156403383907379
+content from /throughput/benchmark: seq=5890156403383907383 time=14.4304 ms
+timeout from /throughput/benchmark: seq=5890156403383907380
+content from /throughput/benchmark: seq=5890156403383907384 time=16.9398 ms
+timeout from /throughput/benchmark: seq=5890156403383907381
+content from /throughput/benchmark: seq=5890156403383907385 time=17.4476 ms
+content from /throughput/benchmark: seq=5890156403383907387 time=17.2161 ms
+timeout from /throughput/benchmark: seq=5890156403383907386
+content from /throughput/benchmark: seq=5890156403383907391 time=18.7963 ms
+timeout from /throughput/benchmark: seq=5890156403383907388
+timeout from /throughput/benchmark: seq=5890156403383907389
+timeout from /throughput/benchmark: seq=5890156403383907390
+content from /throughput/benchmark: seq=5890156403383907395 time=17.293 ms
+timeout from /throughput/benchmark: seq=5890156403383907392
+content from /throughput/benchmark: seq=5890156403383907396 time=16.8274 ms
+timeout from /throughput/benchmark: seq=5890156403383907393
+content from /throughput/benchmark: seq=5890156403383907397 time=16.4759 ms
+timeout from /throughput/benchmark: seq=5890156403383907394
+content from /throughput/benchmark: seq=5890156403383907398 time=17.5901 ms
+content from /throughput/benchmark: seq=5890156403383907399 time=17.2977 ms
+content from /throughput/benchmark: seq=5890156403383907400 time=19.1873 ms
+content from /throughput/benchmark: seq=5890156403383907401 time=17.5809 ms
+content from /throughput/benchmark: seq=5890156403383907402 time=17.1992 ms
+content from /throughput/benchmark: seq=5890156403383907403 time=17.2085 ms
+content from /throughput/benchmark: seq=5890156403383907404 time=17.2502 ms
+content from /throughput/benchmark: seq=5890156403383907405 time=17.1634 ms
+content from /throughput/benchmark: seq=5890156403383907406 time=17.2844 ms
+content from /throughput/benchmark: seq=5890156403383907407 time=15.8035 ms
+content from /throughput/benchmark: seq=5890156403383907409 time=17.3525 ms
+content from /throughput/benchmark: seq=5890156403383907410 time=18.8374 ms
+content from /throughput/benchmark: seq=5890156403383907411 time=17.0269 ms
+timeout from /throughput/benchmark: seq=5890156403383907408
+content from /throughput/benchmark: seq=5890156403383907412 time=14.4705 ms
+content from /throughput/benchmark: seq=5890156403383907413 time=17.4628 ms
+content from /throughput/benchmark: seq=5890156403383907414 time=17.146 ms
+content from /throughput/benchmark: seq=5890156403383907415 time=17.2293 ms
+content from /throughput/benchmark: seq=5890156403383907416 time=17.2433 ms
+content from /throughput/benchmark: seq=5890156403383907417 time=17.3668 ms
+content from /throughput/benchmark: seq=5890156403383907419 time=16.9882 ms
+content from /throughput/benchmark: seq=5890156403383907420 time=17.253 ms
+content from /throughput/benchmark: seq=5890156403383907421 time=18.9416 ms
+timeout from /throughput/benchmark: seq=5890156403383907418
+content from /throughput/benchmark: seq=5890156403383907424 time=17.8437 ms
+content from /throughput/benchmark: seq=5890156403383907425 time=17.3327 ms
+timeout from /throughput/benchmark: seq=5890156403383907422
+content from /throughput/benchmark: seq=5890156403383907426 time=13.535 ms
+timeout from /throughput/benchmark: seq=5890156403383907423
+content from /throughput/benchmark: seq=5890156403383907427 time=14.3569 ms
+content from /throughput/benchmark: seq=5890156403383907429 time=14.2591 ms
+content from /throughput/benchmark: seq=5890156403383907431 time=14.771 ms
+timeout from /throughput/benchmark: seq=5890156403383907428
+content from /throughput/benchmark: seq=5890156403383907433 time=14.6318 ms
+timeout from /throughput/benchmark: seq=5890156403383907430
+content from /throughput/benchmark: seq=5890156403383907434 time=14.7486 ms
+content from /throughput/benchmark: seq=5890156403383907435 time=18.6057 ms
+timeout from /throughput/benchmark: seq=5890156403383907432
+content from /throughput/benchmark: seq=5890156403383907436 time=14.4541 ms
+content from /throughput/benchmark: seq=5890156403383907438 time=14.6196 ms
+timeout from /throughput/benchmark: seq=5890156403383907437
+content from /throughput/benchmark: seq=5890156403383907442 time=14.6576 ms
+timeout from /throughput/benchmark: seq=5890156403383907439
+content from /throughput/benchmark: seq=5890156403383907443 time=13.549 ms
+timeout from /throughput/benchmark: seq=5890156403383907440
+content from /throughput/benchmark: seq=5890156403383907444 time=13.3142 ms
+timeout from /throughput/benchmark: seq=5890156403383907441
+content from /throughput/benchmark: seq=5890156403383907447 time=18.9102 ms
+timeout from /throughput/benchmark: seq=5890156403383907445
+content from /throughput/benchmark: seq=5890156403383907449 time=14.6929 ms
+timeout from /throughput/benchmark: seq=5890156403383907446
+content from /throughput/benchmark: seq=5890156403383907450 time=14.9908 ms
+content from /throughput/benchmark: seq=5890156403383907451 time=17.2693 ms
+timeout from /throughput/benchmark: seq=5890156403383907448
+content from /throughput/benchmark: seq=5890156403383907453 time=14.4633 ms
+content from /throughput/benchmark: seq=5890156403383907454 time=14.7072 ms
+timeout from /throughput/benchmark: seq=5890156403383907452
+content from /throughput/benchmark: seq=5890156403383907456 time=14.3496 ms
+content from /throughput/benchmark: seq=5890156403383907457 time=18.8339 ms
+timeout from /throughput/benchmark: seq=5890156403383907455
+timeout from /throughput/benchmark: seq=5890156403383907458
+content from /throughput/benchmark: seq=5890156403383907462 time=13.8627 ms
+timeout from /throughput/benchmark: seq=5890156403383907459
+timeout from /throughput/benchmark: seq=5890156403383907460
+content from /throughput/benchmark: seq=5890156403383907464 time=17.0008 ms
+timeout from /throughput/benchmark: seq=5890156403383907461
+content from /throughput/benchmark: seq=5890156403383907465 time=14.2714 ms
+content from /throughput/benchmark: seq=5890156403383907466 time=17.5246 ms
+timeout from /throughput/benchmark: seq=5890156403383907463
+
+--- /throughput/benchmark ping statistics ---
+100 packets transmitted, 61 received, 0 nacked, 39% lost, 0% nacked, time 1003.52 ms
+rtt min/avg/max/mdev = 13.3142/16.4512/19.1873/1.59491 ms
+
